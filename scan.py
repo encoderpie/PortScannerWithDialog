@@ -14,8 +14,11 @@ d.add_persistent_args(['--no-nl-expand'])
 # Help menu def
 def helpMenu():
     d.msgbox('''
-The scanning process starts when you enter the \
-IP address or hostname and press 'OK'.
+After entering the IP or Host name and pressing the "OK" button, \
+the "Port scanning operations" menu will appear on your screen. \
+After selecting the option that suits you in this menu, \
+you will be prompted to enter a port, after entering the port, \
+the port scanning process will begin.
 ''', width=0, height=0, title='Help')
 
 # Default ports
