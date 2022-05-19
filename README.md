@@ -3,6 +3,8 @@
 
 ### Installation - dialog
 > ```sudo apt-get install python3-dialog```
+##### For termux:
+> ```pip install pythondialog```
 
 ### Used modules
 - ```dialog```
